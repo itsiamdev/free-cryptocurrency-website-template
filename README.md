@@ -19,7 +19,7 @@
 - Waypoints and CounterUp for dynamic counters
 - Google Fonts for modern typography
 
-🌐 **Live Demo:** Experience the template in action at https://iam269.github.io/free-cryptocurrency-website-template/
+🌐 **Live Demo:** Experience the template in action at https://itsiamdev.github.io/free-cryptocurrency-website-template/
 
 🖼️ **Featured Images:** The template shines with the iconic logo (icon-1.png) used in the navbar and footer, and the captivating hero image (hero-1.png) that sets the tone for your crypto site.
 
